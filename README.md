@@ -1,21 +1,25 @@
-<!--
-**starcat37/starcat37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello 👋
+Suin Kim (김수인) / starcat37@korea.ac.kr
 
-Here are some ideas to get you started:
+## Interest
+Backend, Data Engineering, NLP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+Python, MySQL, Node.js, Redis, NCP(Naver Cloud Platform), GitHub
 
-뭘 쓰면 좋을까🤔🤔
+## Opensource
+### python-mysql-replication
+|PR|content|
+|------|---|
+|[#414](https://github.com/julien-duponchelle/python-mysql-replication/commit/986bf5cbfde3827f6050ff70c579d4fadf05bbe2)|Developed RandEvent and add statement-based logging test|
+|[#423](https://github.com/julien-duponchelle/python-mysql-replication/commit/598b3053f507eba75b46cff78fcdf9f9378d5240)|Fix typo in development.rst|
+|[#464](https://github.com/julien-duponchelle/python-mysql-replication/commit/edd4ff664d387f1295eb6813d308ec49eb65875d)|Modify docstrings in event.py|
+|[#466](https://github.com/julien-duponchelle/python-mysql-replication/commit/73e2eeb7ac2a9e9cfce722a096655f95be752381)|Developed UserVarEvent and Added Statement-Based Logging Test|
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=starcat37&show_icons=true&theme=radical)
+## Websites
+- [LinkedIn](https://www.linkedin.com/in/starcat37/)
+- [Tistory](https://starcat37.tistory.com/)
 
+## ETC
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=starcat37)](https://solved.ac/starcat37)
