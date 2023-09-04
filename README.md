@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 -->
 
 뭘 쓰면 좋을까🤔🤔
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=starcat37&show_icons=true&theme=radical)
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=starcat37)](https://solved.ac/starcat37)
