@@ -18,10 +18,10 @@ starcat37@korea.ac.kr
 ### python-mysql-replication
 |PR|content|
 |------|---|
-|[#414](https://github.com/julien-duponchelle/python-mysql-replication/commit/986bf5cbfde3827f6050ff70c579d4fadf05bbe2)|Developed RandEvent and add statement-based logging test|
-|[#423](https://github.com/julien-duponchelle/python-mysql-replication/commit/598b3053f507eba75b46cff78fcdf9f9378d5240)|Fix typo in development.rst|
-|[#464](https://github.com/julien-duponchelle/python-mysql-replication/commit/edd4ff664d387f1295eb6813d308ec49eb65875d)|Modify docstrings in event.py|
-|[#466](https://github.com/julien-duponchelle/python-mysql-replication/commit/73e2eeb7ac2a9e9cfce722a096655f95be752381)|Developed UserVarEvent and Added Statement-Based Logging Test|
+|[#414](https://github.com/julien-duponchelle/python-mysql-replication/pull/414)|Developed RandEvent and add statement-based logging test|
+|[#423](https://github.com/julien-duponchelle/python-mysql-replication/pull/423)|Fix typo in development.rst|
+|[#464](https://github.com/julien-duponchelle/python-mysql-replication/pull/464)|Modify docstrings in event.py|
+|[#466](https://github.com/julien-duponchelle/python-mysql-replication/pull/466)|Developed UserVarEvent and Added Statement-Based Logging Test|
 
 ## Websites
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/starcat37/)](https://www.linkedin.com/in/starcat37/)
