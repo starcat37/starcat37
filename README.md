@@ -17,6 +17,7 @@ starcat37@korea.ac.kr
 
 ## Opensource
 ### [python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication)
+Pure Python implementation of MySQL replication protocol.
 |PR|summary|
 |------|---|
 |[#414](https://github.com/julien-duponchelle/python-mysql-replication/pull/414)|Developed RandEvent and add statement-based logging test|
