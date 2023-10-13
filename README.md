@@ -1,5 +1,5 @@
 ## Hello 👋
-Suin Kim (김수인)
+Suin Kim / 김수인 / 金秀仁
 
 starcat37@korea.ac.kr
 
