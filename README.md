@@ -24,6 +24,7 @@ Pure Python implementation of MySQL replication protocol.
 |[#423](https://github.com/julien-duponchelle/python-mysql-replication/pull/423)|Fix typo in development.rst|
 |[#464](https://github.com/julien-duponchelle/python-mysql-replication/pull/464)|Modify docstrings in event.py|
 |[#466](https://github.com/julien-duponchelle/python-mysql-replication/pull/466)|Developed UserVarEvent and Added Statement-Based Logging Test|
+|[#489](https://github.com/julien-duponchelle/python-mysql-replication/pull/489)|Distinguish ambiguous column value of None|
 |[#502](https://github.com/julien-duponchelle/python-mysql-replication/pull/502)|Modify test structure|
 
 ## Websites
