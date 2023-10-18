@@ -18,15 +18,15 @@ starcat37@korea.ac.kr
 ## Opensource
 ### [python-mysql-replication](https://github.com/julien-duponchelle/python-mysql-replication)
 Pure Python implementation of MySQL replication protocol.
-|PR|summary|
-|------|---|
-|[#414](https://github.com/julien-duponchelle/python-mysql-replication/pull/414)|Developed RandEvent and add statement-based logging test|
-|[#423](https://github.com/julien-duponchelle/python-mysql-replication/pull/423)|Fix typo in development.rst|
-|[#464](https://github.com/julien-duponchelle/python-mysql-replication/pull/464)|Modify docstrings in event.py|
-|[#466](https://github.com/julien-duponchelle/python-mysql-replication/pull/466)|Developed UserVarEvent and Added Statement-Based Logging Test|
-|[#489](https://github.com/julien-duponchelle/python-mysql-replication/pull/489)|Distinguish ambiguous column value of None|
-|[#502](https://github.com/julien-duponchelle/python-mysql-replication/pull/502)|Modify test structure|
-|[#565](https://github.com/julien-duponchelle/python-mysql-replication/pull/565)|Add omitted charset setting in base.py|
+|PR|summary|status|
+|------|---|------|
+|[#414](https://github.com/julien-duponchelle/python-mysql-replication/pull/414)|Developed RandEvent and add statement-based logging test|Merged
+|[#423](https://github.com/julien-duponchelle/python-mysql-replication/pull/423)|Fix typo in development.rst|Merged
+|[#464](https://github.com/julien-duponchelle/python-mysql-replication/pull/464)|Modify docstrings in event.py|Merged
+|[#466](https://github.com/julien-duponchelle/python-mysql-replication/pull/466)|Developed UserVarEvent and Added Statement-Based Logging Test|Merged
+|[#489](https://github.com/julien-duponchelle/python-mysql-replication/pull/489)|Distinguish ambiguous column value of None|Merged
+|[#502](https://github.com/julien-duponchelle/python-mysql-replication/pull/502)|Modify test structure|Merged
+|[#565](https://github.com/julien-duponchelle/python-mysql-replication/pull/565)|Add omitted charset setting in base.py|In review
 
 ## Websites
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/starcat37/)](https://www.linkedin.com/in/starcat37/)
