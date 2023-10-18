@@ -26,6 +26,7 @@ Pure Python implementation of MySQL replication protocol.
 |[#466](https://github.com/julien-duponchelle/python-mysql-replication/pull/466)|Developed UserVarEvent and Added Statement-Based Logging Test|
 |[#489](https://github.com/julien-duponchelle/python-mysql-replication/pull/489)|Distinguish ambiguous column value of None|
 |[#502](https://github.com/julien-duponchelle/python-mysql-replication/pull/502)|Modify test structure|
+|[#565](https://github.com/julien-duponchelle/python-mysql-replication/pull/565)|Add omitted charset setting in base.py|
 
 ## Websites
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/starcat37/)](https://www.linkedin.com/in/starcat37/)
