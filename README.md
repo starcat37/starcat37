@@ -4,7 +4,7 @@ Suin Kim / 김수인 / 金秀仁
 starcat37@korea.ac.kr
 
 ## Interest
-- Backend(Especially Databases)
+- Backend (Especially Databases)
 - Data Engineering
 - NLP (Focused on Practical Applications)
 
