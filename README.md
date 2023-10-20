@@ -6,7 +6,7 @@ starcat37@korea.ac.kr
 ## Interest
 - Backend(Especially Databases)
 - Data Engineering
-- NLP
+- NLP (Focused on Practical Applications)
 
 ## Tech Stack
 ### Skills I Use Frequently
