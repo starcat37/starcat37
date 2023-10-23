@@ -29,6 +29,12 @@ Pure Python implementation of MySQL replication protocol.
 |[#502](https://github.com/julien-duponchelle/python-mysql-replication/pull/502)|Modify test structure|Merged
 |[#565](https://github.com/julien-duponchelle/python-mysql-replication/pull/565)|Add omitted charset setting in base.py|Merged
 
+### [reflex](https://github.com/reflex-dev/reflex)
+✨ Performant, customizable web apps in pure Python. Deploy in seconds. ✨
+|PR|summary|status|
+|------|---|------|
+|[#2011](https://github.com/reflex-dev/reflex/pull/2011)|Translate README.md file in Korean|Merged
+
 ### [ultimate-python](https://github.com/huangsam/ultimate-python)
 Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 🐍
 |PR|summary|status|
