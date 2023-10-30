@@ -28,6 +28,7 @@ Pure Python implementation of MySQL replication protocol.
 |[#489](https://github.com/julien-duponchelle/python-mysql-replication/pull/489)|Distinguish ambiguous column value of None|Merged
 |[#502](https://github.com/julien-duponchelle/python-mysql-replication/pull/502)|Modify test structure|Merged
 |[#565](https://github.com/julien-duponchelle/python-mysql-replication/pull/565)|Add omitted charset setting in base.py|Merged
+|[#571](https://github.com/julien-duponchelle/python-mysql-replication/pull/571)|Add issue and PR templates|Merged
 
 ### [reflex](https://github.com/reflex-dev/reflex)
 ✨ Performant, customizable web apps in pure Python. Deploy in seconds. ✨
