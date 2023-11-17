@@ -46,8 +46,8 @@ Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 �
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/starcat37/)](https://www.linkedin.com/in/starcat37/)
 [![Tistory Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://starcat37.tistory.com/)
 
-## Resume / Portfolio
-[Notion Resume & Portfolio](https://starcat37.notion.site/Suin-Kim-e1a968f0ed04458db7cde5c3ae2ef933?pvs=4)
+## Detailed Profile (Korean)
+[Notion](https://starcat37.notion.site/Suin-Kim-e1a968f0ed04458db7cde5c3ae2ef933?pvs=4)
 
 ## Etc
 [![Solved.ac
