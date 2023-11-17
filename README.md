@@ -49,6 +49,11 @@ Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 �
 ## Detailed Profile (Korean)
 [Notion](https://starcat37.notion.site/Suin-Kim-e1a968f0ed04458db7cde5c3ae2ef933?pvs=4)
 
+## Language Skills
+- Korean (Native)
+- English (Fluent)
+- Simplified Chinese (Intermediate)
+
 ## Etc
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=starcat37)](https://solved.ac/starcat37)
