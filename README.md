@@ -3,6 +3,8 @@ Suin Kim / 김수인 / 金秀仁
 
 starcat37@korea.ac.kr
 
+[Introduction](https://starcat37.notion.site/Suin-Kim-e1a968f0ed04458db7cde5c3ae2ef933?pvs=4)
+
 ## Interests
 - Backend (Especially Databases)
 - Data Engineering
