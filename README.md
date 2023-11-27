@@ -43,6 +43,7 @@ Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 �
 
 ## Websites
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/starcat37/)](https://www.linkedin.com/in/starcat37/)
+[![Velog Badge](https://velog-readme-stats.vercel.app/api/badge?name=starcat37)](https://velog.io/@starcat37) 
 [![Tistory Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=Tistory)](https://starcat37.tistory.com/)
 
 ## Detailed Profile (Korean)
