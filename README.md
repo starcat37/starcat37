@@ -3,6 +3,9 @@ Suin Kim / 김수인 / 金秀仁
 
 starcat37@korea.ac.kr
 
+## Careers
+- LG CNS (2024.09~) Software Engineer
+
 ## Interests
 - Backend (Especially Databases)
 - Frontend
