@@ -48,7 +48,7 @@ Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 �
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/starcat37/)](https://www.linkedin.com/in/starcat37/)
 [![Velog Badge](https://velog-readme-stats.vercel.app/api/badge?name=Velog)](https://velog.io/@starcat37) 
 
-## Detailed Profile (Korean)
+## Detailed Profile
 [CV](https://suinkim.dev/)
 [Notion](https://starcat37.notion.site/Suin-Kim-e1a968f0ed04458db7cde5c3ae2ef933?pvs=4)
 
