@@ -60,5 +60,7 @@ Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 �
 
 ## Etc
 [LeetCode](https://leetcode.com/u/starcat37/)
+
+
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=starcat37)](https://solved.ac/starcat37)
